@@ -1,0 +1,7 @@
+print("Hola mundo")
+print("Este es mi primer programa")
+print("Andrea Barreto")
+print(4)
+print(4+3)
+print("4+3")
+print(6.4 + 7.6)
